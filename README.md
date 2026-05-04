@@ -1,6 +1,6 @@
 
 <img width="4400" height="1537" alt="Banner github" src="https://github.com/user-attachments/assets/90bdc5b2-e47e-4d0f-a844-0233bb84afcd" />
-<a href="www.linkedin.com/in/alan-higuera-data-science">
+<a href="https://www.linkedin.com/in/alan-higuera-data-science/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
