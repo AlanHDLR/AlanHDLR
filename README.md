@@ -1,6 +1,8 @@
 
 <img width="4400" height="1537" alt="Banner github" src="https://github.com/user-attachments/assets/90bdc5b2-e47e-4d0f-a844-0233bb84afcd" />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alan-higuera-data-science)
+<a href="www.linkedin.com/in/alan-higuera-data-science">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 <!--
 **AlanHDLR/AlanHDLR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
